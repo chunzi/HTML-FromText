@@ -286,7 +286,7 @@ __TEXT__
 cmp_ok( $html, 'eq', <<__HTML__, 'indented tables with normal para' );
 <table class="hft-tables">
   <tr><td>http://www.pm.org</td><td>Perl Mongers</td></tr>
-  <tr><td>http://perl.com</td><td>O'Reilly Perl Center</td></tr>
+  <tr><td>http://perl.com</td><td>O&#39;Reilly Perl Center</td></tr>
   <tr><td>http://lists.perl.org</td><td>List of Mailing Lists</td></tr>
   <tr><td>http://use.perl.org</td><td>Perl News and Community Journals</td></tr>
   <tr><td>http://perl.apache.org</td><td>mod_perl</td></tr>

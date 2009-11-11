@@ -1,3 +1,7 @@
+2.06
+
+  - Fixed bug when single quote not converting as &#39;
+
 2.05
 
   - blockparas uses <p> as its inner tag, instead of <div>

@@ -26,7 +26,7 @@ use Exporter::Lite;
 
 use vars qw[$VERSION @EXPORT @DECORATORS $PROTOCOLS];
 
-$VERSION    = '2.05';
+$VERSION    = '2.06';
 @EXPORT     = qw[text2html];
 @DECORATORS = qw[urls email bold underline];
 $PROTOCOLS  = qr/

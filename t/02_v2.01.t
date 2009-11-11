@@ -83,7 +83,7 @@ cmp_ok( $html, 'eq', <<__HTML__, 'complex bullets' );
           loops. </li>
    <ul class="hft-bullets">
    <li>       Many additional features such as output filtering, exception handling, macro definition, support for plugin objects, definition
-          of template metadata, embedded Perl code (only enabled by EVAL_PERL option), definition of template blocks, a 'switch'
+          of template metadata, embedded Perl code (only enabled by EVAL_PERL option), definition of template blocks, a &#39;switch&#39;
           statement, and more. </li>
    <li>       Full support for complex Perl data types such as hashes, lists, objects and sub-routine references. </li>
    </ul>
